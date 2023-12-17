@@ -1,4 +1,4 @@
-﻿function Update-DecreaseIPv4Address {
+﻿Function Update-DecreaseIPv4Address {
     <#
     .SYNOPSIS
         Decrease the IP address with 1 or more.
